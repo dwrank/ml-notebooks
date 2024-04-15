@@ -1,0 +1,10 @@
+*.swp
+*~
+.*~
+.ipynb_checkpoints
+audio/saved
+audio/simple_audio.h5
+audio/simple_audio.tflite
+audio/data/mini_speech_commands*
+audio/data/test/h_yes_spec.npy
+audio/data/test/test*.wav
